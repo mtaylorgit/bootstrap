@@ -83,3 +83,15 @@
 .bd-mode-toggle .dropdown-menu .active .bi {
   display: block !important;
 }
+
+footer {
+  padding: 21px;
+  color: var(--gray-color);
+  font-style: normal;
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 13px;
+  text-align: center;
+  width: 100%;
+  background-color: var(--light-background-color);
+}
